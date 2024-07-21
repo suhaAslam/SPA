@@ -1,0 +1,24 @@
+.navbar-colour{
+    background-color: rgba(174, 88, 254, 0.886);
+   
+}
+
+.names{
+    font-family:cursive;
+}
+
+.users{
+    font-weight:500;
+}
+
+.btn-back{
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 10px;
+   
+}
+
+.img1{
+    margin-left: 300px;
+
+}
